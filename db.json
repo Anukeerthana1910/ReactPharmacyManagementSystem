@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "44c6",
+      "firstName": "abc",
+      "lastName": "def",
+      "email": "asd@gmail.com",
+      "password": "asdfgh",
+      "age": "18",
+      "address": ""
+    },
+    {
+      "id": "bc03",
+      "firstName": "abc",
+      "lastName": "def",
+      "email": "abc@gmail.com",
+      "password": "abcdef",
+      "age": "18",
+      "address": ""
+    },
+    {
+      "id": "9822",
+      "firstName": "cvb",
+      "lastName": "bnm",
+      "email": "cvb@gmail.com",
+      "password": "cvbbnm",
+      "age": "18",
+      "address": ""
+    },
+    {
+      "id": "20d6",
+      "firstName": "EO",
+      "lastName": "VENGARAI",
+      "email": "malaranu@gmail.com",
+      "password": "abcdef",
+      "age": "20",
+      "address": ""
+    },
+    {
+      "id": "fbec",
+      "firstName": "Anu",
+      "lastName": "Keerthana",
+      "email": "malaranu79@gmail.com",
+      "password": "anu123",
+      "age": "20",
+      "address": ""
+    },
+    {
+      "id": "489c",
+      "firstName": "Anu",
+      "lastName": "Keerthana",
+      "email": "malaranu78@gmail.com",
+      "password": "anu234",
+      "age": "19",
+      "address": ""
+    }
+  ]
+}
